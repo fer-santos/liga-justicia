@@ -9,3 +9,12 @@
 6. Ciudad Nueva 1
 7. Ciudad Nueva 2
 8. Ciudad Nueva 3
+
+### Ciudades modificadas desde GIT (Local)
+* Ciudad Uno
+* Ciudad Dos
+* Ciudad Tres
+* Ciudad Cuatro
+* Ciudad Cinco
+* Ciudad Seis
+* Ciudad Siete
